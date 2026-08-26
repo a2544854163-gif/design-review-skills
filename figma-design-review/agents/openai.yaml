@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma 设计走查"
+  short_description: "检查 Figma 流程连接、组件变量、自动布局、状态覆盖与交付质量"
+  default_prompt: "Use $figma-design-review to audit this Figma file and report evidence-backed issues."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "作品集设计走查"
+  short_description: "检查作品集的项目因果链、事实证据、用户研究表达与逐页排版质量"
+  default_prompt: "Use $portfolio-design-review to audit this portfolio and prioritize concrete improvements."
